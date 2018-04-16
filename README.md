@@ -10,7 +10,10 @@ result_list = lxml_ext.extract_all(data, pattern)
 result = lxml_ext.extract(data, pattern)
 ```
 data: web page
-pattern: html element, {::nomarkdown}<h1 class="test">{:/}
+pattern: html element, 
+```html
+<h1 class="test">
+```
 extract_all method returns all extractions for a pattern in a web page, as a list of strings. extract method returns the first extraction result in a web page, as string.
 
 # BeautifulSoup
