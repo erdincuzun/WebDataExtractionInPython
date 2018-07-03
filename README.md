@@ -35,8 +35,6 @@ result = regex.extract(data, pattern, parser)
 ```
 
 # Publications
-<b>Object-based flowchart drawing library.</b> Uzun, E.; and Buluş, H., N. In 2017 International Conference on Computer Science and Engineering (UBMK), pages 110-115, 2017. 
-
-<b>Object-based Entity Relationship Diagram Drawing Library: EntRel.JS.</b> Uzun, E.; Yerlikaya, T.; and Kırat, O. In 7th International Scientific Conference “TechSys 2018” – Engineering, Technologies and Systems, Technical University of Sofia, Plovdiv Branch May 17-19, pages 114-119, 2018. 
+<b>Comparison of Python Libraries used for Web Data Extraction.</b> Uzun, E.; Yerlikaya, T.; and Kırat, O. In 7th International Scientific Conference “TechSys 2018” – Engineering, Technologies and Systems, Technical University of Sofia, Plovdiv Branch May 17-19, pages 108-113, 2018.
 
 <a href="https://www.e-adys.com/yayinlar/" target="_blank">Click for bibtex, downloads, all publications...</a>
